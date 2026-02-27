@@ -1,0 +1,7 @@
+deployments:
+  - name: world-data
+    entrypoint: master_entry.py:world_data_master_flow
+    work_pool:
+      name: default-agent-pool
+    schedules:
+      - cron: "0 2 * * *"   # corre todos los días a las 2 AM

@@ -1,0 +1,411 @@
+id_country,id_language,native_common,native_official
+JAM,eng,Jamaica,Jamaica
+JAM,jam,Jamaica,Jamaica
+COM,ara,القمر‎,الاتحاد القمري
+COM,fra,Comores,Union des Comores
+COM,zdj,Komori,Udzima wa Komori
+ZWE,bwg,Zimbabwe,Republic of Zimbabwe
+ZWE,eng,Zimbabwe,Republic of Zimbabwe
+ZWE,kck,Zimbabwe,Republic of Zimbabwe
+ZWE,khi,Zimbabwe,Republic of Zimbabwe
+ZWE,ndc,Zimbabwe,Republic of Zimbabwe
+ZWE,nde,Zimbabwe,Republic of Zimbabwe
+ZWE,nya,Zimbabwe,Republic of Zimbabwe
+ZWE,sna,Zimbabwe,Republic of Zimbabwe
+ZWE,sot,Zimbabwe,Republic of Zimbabwe
+ZWE,toi,Zimbabwe,Republic of Zimbabwe
+ZWE,tsn,Zimbabwe,Republic of Zimbabwe
+ZWE,tso,Zimbabwe,Republic of Zimbabwe
+ZWE,ven,Zimbabwe,Republic of Zimbabwe
+ZWE,xho,Zimbabwe,Republic of Zimbabwe
+ZWE,zib,Zimbabwe,Republic of Zimbabwe
+SXM,eng,Sint Maarten,Sint Maarten
+SXM,fra,Saint-Martin,Saint-Martin
+SXM,nld,Sint Maarten,Sint Maarten
+LAO,lao,ສປປລາວ,ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ
+LVA,lav,Latvija,Latvijas Republikas
+TJK,rus,Таджикистан,Республика Таджикистан
+TJK,tgk,Тоҷикистон,Ҷумҳурии Тоҷикистон
+GBR,eng,United Kingdom,United Kingdom of Great Britain and Northern Ireland
+NIC,spa,Nicaragua,República de Nicaragua
+SDN,ara,السودان,جمهورية السودان
+SDN,eng,Sudan,Republic of the Sudan
+GRC,ell,Ελλάδα,Ελληνική Δημοκρατία
+LTU,lit,Lietuva,Lietuvos Respublikos
+RWA,eng,Rwanda,Republic of Rwanda
+RWA,fra,Rwanda,République rwandaise
+RWA,kin,Rwanda,Repubulika y'u Rwanda
+SEN,fra,Sénégal,République du Sénégal
+MCO,fra,Monaco,Principauté de Monaco
+LSO,eng,Lesotho,Kingdom of Lesotho
+LSO,sot,Lesotho,Kingdom of Lesotho
+TUN,ara,تونس,الجمهورية التونسية
+VUT,bis,Vanuatu,Ripablik blong Vanuatu
+VUT,eng,Vanuatu,Republic of Vanuatu
+VUT,fra,Vanuatu,République de Vanuatu
+ECU,spa,Ecuador,República del Ecuador
+KWT,ara,الكويت,دولة الكويت
+PHL,eng,Philippines,Republic of the Philippines
+PHL,fil,Pilipinas,Republic of the Philippines
+CHL,spa,Chile,República de Chile
+BHS,eng,Bahamas,Commonwealth of the Bahamas
+TZA,eng,Tanzania,United Republic of Tanzania
+TZA,swa,Tanzania,Jamhuri ya Muungano wa Tanzania
+CRI,spa,Costa Rica,República de Costa Rica
+MAR,ara,المغرب,المملكة المغربية
+MAR,ber,ⵍⵎⴰⵖⵔⵉⴱ,ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ
+MNE,cnr,Црна Гора,Црна Гора
+FSM,eng,Micronesia,Federated States of Micronesia
+PRT,por,Portugal,República Portuguesa
+ARE,ara,دولة الإمارات العربية المتحدة,الإمارات العربية المتحدة
+LBY,ara,‏ليبيا,الدولة ليبيا
+LUX,deu,Luxemburg,Großherzogtum Luxemburg
+LUX,fra,Luxembourg,Grand-Duché de Luxembourg
+LUX,ltz,Lëtzebuerg,Groussherzogtum Lëtzebuerg
+JEY,eng,Jersey,Bailiwick of Jersey
+JEY,fra,Jersey,Bailliage de Jersey
+JEY,nrf,Jèrri,Bailliage dé Jèrri
+SLB,eng,Solomon Islands,Solomon Islands
+DZA,ara,الجزائر,الجمهورية الديمقراطية الشعبية الجزائرية
+ATG,eng,Antigua and Barbuda,Antigua and Barbuda
+SHN,eng,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha"
+BRA,por,Brasil,República Federativa do Brasil
+SGS,eng,South Georgia,South Georgia and the South Sandwich Islands
+MLI,fra,Mali,République du Mali
+PAK,eng,Pakistan,Islamic Republic of Pakistan
+PAK,urd,پاكستان,اسلامی جمہوریۂ پاكستان
+TTO,eng,Trinidad and Tobago,Republic of Trinidad and Tobago
+ARM,hye,Հայաստան,Հայաստանի Հանրապետություն
+BGD,ben,বাংলাদেশ,বাংলাদেশ গণপ্রজাতন্ত্রী
+TCA,eng,Turks and Caicos Islands,Turks and Caicos Islands
+TKM,rus,Туркмения,Туркменистан
+TKM,tuk,Türkmenistan,Türkmenistan
+FRO,dan,Færøerne,Færøerne
+FRO,fao,Føroyar,Føroyar
+PLW,eng,Palau,Republic of Palau
+PLW,pau,Belau,Beluu er a Belau
+CUB,spa,Cuba,República de Cuba
+TCD,ara,تشاد‎,جمهورية تشاد
+TCD,fra,Tchad,République du Tchad
+BIH,bos,Bosna i Hercegovina,Bosna i Hercegovina
+BIH,hrv,Bosna i Hercegovina,Bosna i Hercegovina
+BIH,srp,Босна и Херцеговина,Босна и Херцеговина
+BWA,eng,Botswana,Republic of Botswana
+BWA,tsn,Botswana,Lefatshe la Botswana
+EST,est,Eesti,Eesti Vabariik
+IOT,eng,British Indian Ocean Territory,British Indian Ocean Territory
+ATF,fra,Terres australes et antarctiques françaises,Territoire des Terres australes et antarctiques françaises
+GRL,kal,Kalaallit Nunaat,Kalaallit Nunaat
+CXR,eng,Christmas Island,Territory of Christmas Island
+PCN,eng,Pitcairn Islands,Pitcairn Group of Islands
+ESH,ber,Western Sahara,Sahrawi Arab Democratic Republic
+ESH,mey,الصحراء الغربية,الجمهورية العربية الصحراوية الديمقراطية
+ESH,spa,Sahara Occidental,República Árabe Saharaui Democrática
+MSR,eng,Montserrat,Montserrat
+BHR,ara,‏البحرين,مملكة البحرين
+DOM,spa,República Dominicana,República Dominicana
+USA,eng,United States,United States of America
+COK,eng,Cook Islands,Cook Islands
+COK,rar,Kūki 'Āirani,Kūki 'Āirani
+COL,spa,Colombia,República de Colombia
+GIN,fra,Guinée,République de Guinée
+IRL,eng,Ireland,Republic of Ireland
+IRL,gle,Éire,Poblacht na hÉireann
+MDV,div,ދިވެހިރާއްޖޭގެ,ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ
+PAN,spa,Panamá,República de Panamá
+MOZ,por,Moçambique,República de Moçambique
+OMN,ara,عمان,سلطنة عمان
+CZE,ces,Česko,Česká republika
+CZE,slk,Česko,Česká republika
+HMD,eng,Heard Island and McDonald Islands,Heard Island and McDonald Islands
+VCT,eng,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines
+HTI,fra,Haïti,République d'Haïti
+HTI,hat,Ayiti,Repiblik Ayiti
+NGA,eng,Nigeria,Federal Republic of Nigeria
+VGB,eng,British Virgin Islands,Virgin Islands
+NAM,afr,Namibië,Republiek van Namibië
+NAM,deu,Namibia,Republik Namibia
+NAM,eng,Namibia,Republic of Namibia
+NAM,her,Namibia,Republic of Namibia
+NAM,hgm,Namibia,Republic of Namibia
+NAM,kwn,Namibia,Republic of Namibia
+NAM,loz,Namibia,Republic of Namibia
+NAM,ndo,Namibia,Republic of Namibia
+NAM,tsn,Namibia,Lefatshe la Namibia
+DMA,eng,Dominica,Commonwealth of Dominica
+CAN,eng,Canada,Canada
+CAN,fra,Canada,Canada
+GGY,eng,Guernsey,Bailiwick of Guernsey
+GGY,fra,Guernesey,Bailliage de Guernesey
+GGY,nfr,Dgèrnésiais,Dgèrnésiais
+NER,fra,Niger,République du Niger
+IDN,ind,Indonesia,Republik Indonesia
+YEM,ara,اليَمَن,الجمهورية اليمنية
+PSE,ara,فلسطين,دولة فلسطين
+GAB,fra,Gabon,République gabonaise
+ERI,ara,إرتريا‎,دولة إرتريا
+ERI,eng,Eritrea,State of Eritrea
+ERI,tir,ኤርትራ,ሃገረ ኤርትራ
+CYP,ell,Κύπρος,Δημοκρατία της Κύπρος
+CYP,tur,Kıbrıs,Kıbrıs Cumhuriyeti
+HKG,eng,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China
+HKG,zho,香港,中华人民共和国香港特别行政区
+BVT,nor,Bouvetøya,Bouvetøya
+SVK,slk,Slovensko,Slovenská republika
+SVN,slv,Slovenija,Republika Slovenija
+NIU,eng,Niue,Niue
+NIU,niu,Niuē,Niuē
+KIR,eng,Kiribati,Independent and Sovereign Republic of Kiribati
+KIR,gil,Kiribati,Ribaberiki Kiribati
+DEU,deu,Deutschland,Bundesrepublik Deutschland
+UNK,sqi,Kosova,Republika e Kosovës
+UNK,srp,Косово,Република Косово
+CIV,fra,Côte d'Ivoire,République de Côte d'Ivoire
+LKA,sin,ශ්‍රී ලංකාව,ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය
+LKA,tam,இலங்கை,இலங்கை சனநாயக சோசலிசக் குடியரசு
+MAF,fra,Saint-Martin,Saint-Martin
+BEL,deu,Belgien,Königreich Belgien
+BEL,fra,Belgique,Royaume de Belgique
+BEL,nld,België,Koninkrijk België
+ISR,ara,إسرائيل,دولة إسرائيل
+ISR,heb,ישראל,מדינת ישראל
+ALA,swe,Åland,Landskapet Åland
+MNP,cal,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands
+MNP,cha,Na Islas Mariånas,Sankattan Siha Na Islas Mariånas
+MNP,eng,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands
+DNK,dan,Danmark,Kongeriget Danmark
+BMU,eng,Bermuda,Bermuda
+GIB,eng,Gibraltar,Gibraltar
+SYR,ara,سوريا,الجمهورية العربية السورية
+TLS,por,Timor-Leste,República Democrática de Timor-Leste
+TLS,tet,Timór-Leste,Repúblika Demokrátika Timór-Leste
+SMR,ita,San Marino,Repubblica di San Marino
+GMB,eng,Gambia,Republic of the Gambia
+PER,aym,Piruw,Piruw Suyu
+PER,que,Piruw,Piruw Ripuwlika
+PER,spa,Perú,República del Perú
+GNB,por,Guiné-Bissau,República da Guiné-Bissau
+GNB,pov,Guiné-Bissau,República da Guiné-Bissau
+SLE,eng,Sierra Leone,Republic of Sierra Leone
+TUR,tur,Türkiye,Türkiye Cumhuriyeti
+BOL,aym,Wuliwya,Wuliwya Suyu
+BOL,grn,Volívia,Tetã Volívia
+BOL,que,Buliwya,Buliwya Mamallaqta
+BOL,spa,Bolivia,Estado Plurinacional de Bolivia
+NOR,nno,Noreg,Kongeriket Noreg
+NOR,nob,Norge,Kongeriket Norge
+NOR,smi,Norgga,Norgga gonagasriika
+COG,fra,République du Congo,République du Congo
+COG,kon,Repubilika ya Kongo,Repubilika ya Kongo
+COG,lin,Republíki ya Kongó,Republíki ya Kongó
+SWZ,eng,Eswatini,Kingdom of Eswatini
+SWZ,ssw,eSwatini,Umbuso weSwatini
+PRY,grn,Paraguái,Tetã Paraguái
+PRY,spa,Paraguay,República de Paraguay
+UKR,ukr,Україна,Україна
+MYS,eng,Malaysia,Malaysia
+MYS,msa,مليسيا,مليسيا
+TON,eng,Tonga,Kingdom of Tonga
+TON,ton,Tonga,Kingdom of Tonga
+BEN,fra,Bénin,République du Bénin
+SWE,swe,Sverige,Konungariket Sverige
+TUV,eng,Tuvalu,Tuvalu
+TUV,tvl,Tuvalu,Tuvalu
+MNG,mon,Монгол улс,Монгол улс
+ZAF,afr,South Africa,Republiek van Suid-Afrika
+ZAF,eng,South Africa,Republic of South Africa
+ZAF,nbl,Sewula Afrika,IRiphabliki yeSewula Afrika
+ZAF,nso,Afrika-Borwa,Rephaboliki ya Afrika-Borwa 
+ZAF,sot,Afrika Borwa,Rephaboliki ya Afrika Borwa
+ZAF,ssw,Ningizimu Afrika,IRiphabhulikhi yeNingizimu Afrika
+ZAF,tsn,Aforika Borwa,Rephaboliki ya Aforika Borwa
+ZAF,tso,Afrika Dzonga,Riphabliki ra Afrika Dzonga
+ZAF,ven,Afurika Tshipembe,Riphabuḽiki ya Afurika Tshipembe
+ZAF,xho,Mzantsi Afrika,IRiphabliki yaseMzantsi Afrika
+ZAF,zul,Ningizimu Afrika,IRiphabliki yaseNingizimu Afrika
+CUW,eng,Curaçao,Country of Curaçao
+CUW,nld,Curaçao,Land Curaçao
+CUW,pap,Pais Kòrsou,Pais Kòrsou
+AUS,eng,Australia,Commonwealth of Australia
+KNA,eng,Saint Kitts and Nevis,Federation of Saint Christopher and Nevis
+GHA,eng,Ghana,Republic of Ghana
+IRQ,ara,العراق,جمهورية العراق
+IRQ,arc,ܩܘܼܛܢܵܐ,ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ
+IRQ,ckb,کۆماری,کۆماری عێراق
+VNM,vie,Việt Nam,Cộng hòa xã hội chủ nghĩa Việt Nam
+GUY,eng,Guyana,Co-operative Republic of Guyana
+AZE,aze,Azərbaycan,Azərbaycan Respublikası
+CMR,eng,Cameroon,Republic of Cameroon
+CMR,fra,Cameroun,République du Cameroun
+EGY,ara,مصر,جمهورية مصر العربية
+ISL,isl,Ísland,Ísland
+VEN,spa,Venezuela,República Bolivariana de Venezuela
+BRB,eng,Barbados,Barbados
+FLK,eng,Falkland Islands,Falkland Islands
+MWI,eng,Malawi,Republic of Malawi
+MWI,nya,Malaŵi,"Chalo cha Malawi, Dziko la Malaŵi"
+KGZ,kir,Кыргызстан,Кыргыз Республикасы
+KGZ,rus,Киргизия,Кыргызская Республика
+TWN,zho,台灣,中華民國
+BGR,bul,България,Република България
+PRK,kor,조선,조선민주주의인민공화국
+AND,cat,Andorra,Principat d'Andorra
+AGO,por,Angola,República de Angola
+BLM,fra,Saint-Barthélemy,Collectivité de Saint-Barthélemy
+RUS,rus,Россия,Российская Федерация
+BFA,fra,Burkina Faso,République du Burkina
+VAT,ita,Vaticano,Stato della Città del Vaticano
+VAT,lat,Vaticanæ,Status Civitatis Vaticanæ
+IMN,eng,Isle of Man,Isle of Man
+IMN,glv,Mannin,Ellan Vannin or Mannin
+AFG,prs,افغانستان,جمهوری اسلامی افغانستان
+AFG,pus,افغانستان,د افغانستان اسلامي جمهوریت
+AFG,tuk,Owganystan,Owganystan Yslam Respublikasy
+HRV,hrv,Hrvatska,Republika Hrvatska
+BTN,dzo,འབྲུག་ཡུལ་,འབྲུག་རྒྱལ་ཁབ་
+BLR,bel,Белару́сь,Рэспубліка Беларусь
+BLR,rus,Беларусь,Республика Беларусь
+CCK,eng,Cocos (Keeling) Islands,Territory of the Cocos (Keeling) Islands
+NZL,eng,New Zealand,New Zealand
+NZL,mri,Aotearoa,Aotearoa
+NZL,nzs,New Zealand,New Zealand
+MDG,fra,Madagascar,République de Madagascar
+MDG,mlg,Madagasikara,Repoblikan'i Madagasikara
+THA,tha,ประเทศไทย,ราชอาณาจักรไทย
+GEO,kat,საქართველო,საქართველო
+IND,eng,India,Republic of India
+IND,hin,भारत,भारत गणराज्य
+IND,tam,இந்தியா,இந்தியக் குடியரசு
+CHN,zho,中国,中华人民共和国
+SPM,fra,Saint-Pierre-et-Miquelon,Collectivité territoriale de Saint-Pierre-et-Miquelon
+PRI,eng,Puerto Rico,Commonwealth of Puerto Rico
+PRI,spa,Puerto Rico,Estado Libre Asociado de Puerto Rico
+DJI,ara,جيبوتي‎,جمهورية جيبوتي
+DJI,fra,Djibouti,République de Djibouti
+SAU,ara,العربية السعودية,المملكة العربية السعودية
+IRN,fas,ایران,جمهوری اسلامی ایران
+ZMB,eng,Zambia,Republic of Zambia
+ETH,amh,ኢትዮጵያ,የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ
+MAC,por,Macau,Região Administrativa Especial de Macau da República Popular da China
+MAC,zho,澳门,中华人民共和国澳门特别行政区
+GTM,spa,Guatemala,República de Guatemala
+MTQ,fra,Martinique,Martinique
+SUR,nld,Suriname,Republiek Suriname
+URY,spa,Uruguay,República Oriental del Uruguay
+ITA,ita,Italia,Repubblica italiana
+NCL,fra,Nouvelle-Calédonie,Nouvelle-Calédonie
+FJI,eng,Fiji,Republic of Fiji
+FJI,fij,Viti,Matanitu Tugalala o Viti
+FJI,hif,फिजी,रिपब्लिक ऑफ फीजी
+ABW,nld,Aruba,Aruba
+ABW,pap,Aruba,Aruba
+STP,por,São Tomé e Príncipe,República Democrática do São Tomé e Príncipe
+CHE,fra,Suisse,Confédération suisse
+CHE,gsw,Schweiz,Schweizerische Eidgenossenschaft
+CHE,ita,Svizzera,Confederazione Svizzera
+CHE,roh,Svizra,Confederaziun svizra
+COD,fra,RD Congo,République démocratique du Congo
+COD,kon,Repubilika ya Kongo Demokratiki,Repubilika ya Kongo Demokratiki
+COD,lin,Republiki ya Kongó Demokratiki,Republiki ya Kongó Demokratiki
+COD,lua,Ditunga dia Kongu wa Mungalaata,Ditunga dia Kongu wa Mungalaata
+COD,swa,Jamhuri ya Kidemokrasia ya Kongo,Jamhuri ya Kidemokrasia ya Kongo
+FIN,fin,Suomi,Suomen tasavalta
+FIN,swe,Finland,Republiken Finland
+MLT,eng,Malta,Republic of Malta
+MLT,mlt,Malta,Repubblika ta ' Malta
+SLV,spa,El Salvador,República de El Salvador
+JOR,ara,الأردن,المملكة الأردنية الهاشمية
+TKL,eng,Tokelau,Tokelau
+TKL,smo,Tokelau,Tokelau
+TKL,tkl,Tokelau,Tokelau
+NRU,eng,Nauru,Republic of Nauru
+NRU,nau,Nauru,Republic of Nauru
+POL,pol,Polska,Rzeczpospolita Polska
+MRT,ara,موريتانيا,الجمهورية الإسلامية الموريتانية
+WLF,fra,Wallis et Futuna,Territoire des îles Wallis et Futuna
+GUM,cha,Guåhån,Guåhån
+GUM,eng,Guam,Guam
+GUM,spa,Guam,Guam
+MKD,mkd,Македонија,Република Северна Македонија
+TGO,fra,Togo,République togolaise
+MMR,mya,မြန်မာ,ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်
+QAT,ara,قطر,دولة قطر
+FRA,fra,France,République française
+MYT,fra,Mayotte,Département de Mayotte
+NFK,eng,Norfolk Island,Territory of Norfolk Island
+NFK,pih,Norf'k Ailen,Teratri of Norf'k Ailen
+SYC,crs,Sesel,Repiblik Sesel
+SYC,eng,Seychelles,Republic of Seychelles
+SYC,fra,Seychelles,République des Seychelles
+MDA,ron,Moldova,Republica Moldova
+SSD,eng,South Sudan,Republic of South Sudan
+BRN,msa,Negara Brunei Darussalam,"Nation of Brunei, Abode Damai"
+JPN,jpn,日本,日本
+GRD,eng,Grenada,Grenada
+ESP,spa,España,Reino de España
+BES,nld,Caribisch Nederland,"Bonaire, Sint Eustatius en Saba"
+BES,pap,"Boneiru, Sint Eustatius y Saba","Boneiru, Sint Eustatius y Saba"
+PNG,eng,Papua New Guinea,Independent State of Papua New Guinea
+PNG,hmo,Papua Niu Gini,Independen Stet bilong Papua Niugini
+PNG,tpi,Papua Niugini,Independen Stet bilong Papua Niugini
+UZB,rus,Узбекистан,Республика Узбекистан
+UZB,uzb,O‘zbekiston,O'zbekiston Respublikasi
+ARG,grn,Argentina,Argentine Republic
+ARG,spa,Argentina,República Argentina
+KOR,kor,한국,대한민국
+BLZ,bjz,Belize,Belize
+BLZ,eng,Belize,Belize
+BLZ,spa,Belice,Belice
+REU,fra,La Réunion,Ile de la Réunion
+MEX,spa,México,Estados Unidos Mexicanos
+VIR,eng,United States Virgin Islands,Virgin Islands of the United States
+SRB,srp,Србија,Република Србија
+UMI,eng,United States Minor Outlying Islands,United States Minor Outlying Islands
+CPV,por,Cabo Verde,República de Cabo Verde
+KHM,khm,Kâmpŭchéa,ព្រះរាជាណាចក្រកម្ពុជា
+ROU,ron,România,România
+HUN,hun,Magyarország,Magyarország
+MHL,eng,Marshall Islands,Republic of the Marshall Islands
+MHL,mah,M̧ajeļ,Republic of the Marshall Islands
+SOM,ara,الصومال‎‎,جمهورية الصومال‎‎
+SOM,som,Soomaaliya,Jamhuuriyadda Federaalka Soomaaliya
+ALB,sqi,Shqipëria,Republika e Shqipërisë
+PYF,fra,Polynésie française,Polynésie française
+BDI,fra,Burundi,République du Burundi
+BDI,run,Uburundi,Republika y'Uburundi 
+CAF,fra,République centrafricaine,République centrafricaine
+CAF,sag,Bêafrîka,Ködörösêse tî Bêafrîka
+GUF,fra,Guyane française,Guyane
+ASM,eng,American Samoa,American Samoa
+ASM,smo,Sāmoa Amelika,Sāmoa Amelika
+LCA,eng,Saint Lucia,Saint Lucia
+UGA,eng,Uganda,Republic of Uganda
+UGA,swa,Uganda,Republic of Uganda
+HND,spa,Honduras,República de Honduras
+KAZ,kaz,Қазақстан,Қазақстан Республикасы
+KAZ,rus,Казахстан,Республика Казахстан
+KEN,eng,Kenya,Republic of Kenya
+KEN,swa,Kenya,Republic of Kenya
+WSM,eng,Samoa,Independent State of Samoa
+WSM,smo,Sāmoa,Malo Saʻoloto Tutoʻatasi o Sāmoa
+NPL,nep,नेपाल,नेपाल संघीय लोकतान्त्रिक गणतन्त्र
+GNQ,fra,Guinée équatoriale,République de la Guinée Équatoriale
+GNQ,por,Guiné Equatorial,República da Guiné Equatorial
+GNQ,spa,Guinea Ecuatorial,República de Guinea Ecuatorial
+LBN,ara,لبنان,الجمهورية اللبنانية
+LBN,fra,Liban,République libanaise
+MUS,eng,Mauritius,Republic of Mauritius
+MUS,fra,Maurice,République de Maurice
+MUS,mfe,Moris,Republik Moris
+LIE,deu,Liechtenstein,Fürstentum Liechtenstein
+CYM,eng,Cayman Islands,Cayman Islands
+AIA,eng,Anguilla,Anguilla
+GLP,fra,Guadeloupe,Guadeloupe
+AUT,bar,Österreich,Republik Österreich
+NLD,nld,Nederland,Koninkrijk der Nederlanden
+SJM,nor,Svalbard og Jan Mayen,Svalbard og Jan Mayen
+SGP,eng,Singapore,Republic of Singapore
+SGP,zho,新加坡,新加坡共和国
+SGP,msa,Singapura,Republik Singapura
+SGP,tam,சிங்கப்பூர்,சிங்கப்பூர் குடியரசு
+LBR,eng,Liberia,Republic of Liberia
