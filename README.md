@@ -154,12 +154,3 @@ En `doc/` se adjunta:
 - Diseño de solución (cloud/arquitectura)  
 - Informe de proceso ETL  
 
----
-
-## Extras (si querés mejorar el repo)
-
-Si querés, también puedo:
-
-- Generarte un `requirements.txt` y/o `pyproject.toml`
-- Armar un diagrama de arquitectura (Mermaid) más detallado
-- Redactar una versión del README en inglés para recruiters
